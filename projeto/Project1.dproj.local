@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/09/09 10:40:20.000.206,=C:\Users\anaco\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/09/09 10:42:05.000.368,C:\Users\anaco\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untLogin.dfm</Transaction>
+    <Transaction>2021/09/09 10:42:05.000.368,C:\Users\anaco\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untLogin.pas</Transaction>
+    <Transaction>2021/09/09 10:46:19.000.868,C:\Users\anaco\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Project1.dproj</Transaction>
+    <Transaction>2021/09/09 10:46:21.000.844,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\ModelSupport_Project1\default.txaPackage</Transaction>
+    <Transaction>2021/09/09 10:46:24.000.135,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\ModelSupport_Project1\default.txvpck</Transaction>
+    <Transaction>2021/09/09 10:48:09.000.117,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/09 10:48:27.000.825,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untDMPrincipal.dfm</Transaction>
+    <Transaction>2021/09/09 10:48:27.000.825,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untDMPrincipal.pas</Transaction>
+    <Transaction>2021/09/09 11:18:53.000.480,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/09 11:20:11.000.021,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmPrincipal.pas</Transaction>
+    <Transaction>2021/09/09 11:20:11.000.021,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmPrincipal.dfm</Transaction>
+    <Transaction>2021/09/09 11:42:22.000.957,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\ModelSupport_Project1\Project1\default.txvpck</Transaction>
+    <Transaction>2021/09/09 11:42:22.000.777,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\ModelSupport_Project1\untLogin\default.txvpck</Transaction>
+    <Transaction>2021/09/09 11:42:23.000.072,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\ModelSupport_Project1\untLogin\default.txaPackage</Transaction>
+    <Transaction>2021/09/09 11:42:23.000.097,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\ModelSupport_Project1\untDMPrincipal\default.txaPackage</Transaction>
+    <Transaction>2021/09/09 11:42:23.000.017,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\ModelSupport_Project1\untFrmPrincipal\default.txaPackage</Transaction>
+    <Transaction>2021/09/09 12:30:32.000.565,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/09 12:32:31.000.254,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmCliente.pas</Transaction>
+    <Transaction>2021/09/09 12:32:31.000.254,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmCliente.dfm</Transaction>
+    <Transaction>2021/09/09 16:57:27.000.474,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/09 16:57:57.000.478,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmUsuario.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/09 16:57:57.000.478,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmUsuario.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm</Transaction>
+    <Transaction>2021/09/10 08:14:43.000.906,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/10 08:20:45.000.378,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmProduto.dfm</Transaction>
+    <Transaction>2021/09/10 08:20:45.000.378,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmProduto.pas</Transaction>
+    <Transaction>2021/09/10 08:24:40.000.718,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit2.pas</Transaction>
+    <Transaction>2021/09/10 08:34:04.000.491,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit2.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVenda.pas</Transaction>
+    <Transaction>2021/09/10 08:34:04.000.491,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit2.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVenda.dfm</Transaction>
+    <Transaction>2021/09/10 08:48:19.000.814,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit3.pas</Transaction>
+    <Transaction>2021/09/10 08:48:40.000.242,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit3.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\TFrmProdutoCRUD.pas</Transaction>
+    <Transaction>2021/09/10 08:48:40.000.242,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit3.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\TFrmProdutoCRUD.dfm</Transaction>
+    <Transaction>2021/09/10 09:25:36.000.333,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\TFrmProdutoCRUD.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmProdutoCRUD.pas</Transaction>
+    <Transaction>2021/09/10 09:25:36.000.333,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\TFrmProdutoCRUD.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmProdutoCRUD.dfm</Transaction>
+    <Transaction>2021/09/10 12:58:05.000.666,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/10 12:58:16.000.536,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmProdutoLOCALIZAR.pas</Transaction>
+    <Transaction>2021/09/10 12:58:16.000.536,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmProdutoLOCALIZAR.dfm</Transaction>
+    <Transaction>2021/09/10 15:10:19.000.502,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/10 15:10:56.000.922,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVendaFinalizar.pas</Transaction>
+    <Transaction>2021/09/10 15:10:56.000.922,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVendaFinalizar.dfm</Transaction>
+    <Transaction>2021/09/10 16:41:42.000.194,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/10 16:42:07.000.564,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmClienteLOCALIZAR.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/10 16:42:07.000.564,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmClienteLOCALIZAR.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm</Transaction>
+    <Transaction>2021/09/11 22:30:47.000.038,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/11 22:30:58.000.580,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVendaEscolher.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm</Transaction>
+    <Transaction>2021/09/11 22:30:58.000.580,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVendaEscolher.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/11 22:46:38.000.687,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVendaEscolher.pas=</Transaction>
+    <Transaction>2021/09/12 19:45:15.000.769,=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas</Transaction>
+    <Transaction>2021/09/12 19:45:32.000.352,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.pas=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVendaParcela.pas</Transaction>
+    <Transaction>2021/09/12 19:45:32.000.352,C:\Users\anaco\Documents\CHAYBE\zoe\projeto\Unit1.dfm=C:\Users\anaco\Documents\CHAYBE\zoe\projeto\untFrmVendaParcela.dfm</Transaction>
+  </Transactions>
+</BorlandProject>

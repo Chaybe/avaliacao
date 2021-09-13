@@ -1,0 +1,20 @@
+program Project1;
+
+uses
+  Vcl.Forms,
+  untLogin in 'untLogin.pas' {frmLogin},
+  untDMPrincipal in 'untDMPrincipal.pas' {DMPrincipal: TDataModule},
+  untFrmPrincipal in 'untFrmPrincipal.pas' {frmPrincipal},
+  untFrmCliente in 'untFrmCliente.pas' {frmCliente};
+
+{$R *.res}
+
+begin
+  Application.Initialize;
+  Application.MainFormOnTaskbar := True;
+  Application.CreateForm(TfrmLogin, frmLogin);
+  Application.CreateForm(TDMPrincipal, DMPrincipal);
+  Application.CreateForm(TfrmPrincipal, frmPrincipal);
+  Application.CreateForm(TfrmCliente, frmCliente);
+  Application.Run;
+end.

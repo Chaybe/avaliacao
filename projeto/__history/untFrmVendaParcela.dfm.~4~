@@ -1,0 +1,52 @@
+object frmVendaParcela: TfrmVendaParcela
+  Left = 0
+  Top = 0
+  Caption = 'Venda > Parcela'
+  ClientHeight = 442
+  ClientWidth = 548
+  Color = clBtnFace
+  Font.Charset = DEFAULT_CHARSET
+  Font.Color = clWindowText
+  Font.Height = -11
+  Font.Name = 'Tahoma'
+  Font.Style = []
+  OldCreateOrder = False
+  PixelsPerInch = 96
+  TextHeight = 13
+  object pnlTop: TPanel
+    Left = 0
+    Top = 0
+    Width = 548
+    Height = 65
+    Align = alTop
+    TabOrder = 0
+    object Label1: TLabel
+      Left = 8
+      Top = 19
+      Width = 41
+      Height = 13
+      Caption = 'Localizar'
+    end
+    object Edit1: TEdit
+      Left = 8
+      Top = 38
+      Width = 273
+      Height = 21
+      TabOrder = 0
+      Text = 'Edit1'
+    end
+  end
+  object DBGrid1: TDBGrid
+    Left = 0
+    Top = 65
+    Width = 548
+    Height = 377
+    Align = alClient
+    TabOrder = 1
+    TitleFont.Charset = DEFAULT_CHARSET
+    TitleFont.Color = clWindowText
+    TitleFont.Height = -11
+    TitleFont.Name = 'Tahoma'
+    TitleFont.Style = []
+  end
+end

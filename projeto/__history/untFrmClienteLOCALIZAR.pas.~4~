@@ -1,0 +1,37 @@
+unit untFrmClienteLOCALIZAR;
+
+interface
+
+uses
+  Winapi.Windows, Winapi.Messages, System.SysUtils, System.Variants, System.Classes, Vcl.Graphics,
+  Vcl.Controls, Vcl.Forms, Vcl.Dialogs, Data.DB, Vcl.Grids, Vcl.DBGrids,
+  Vcl.StdCtrls, FireDAC.Stan.Intf, FireDAC.Stan.Option, FireDAC.Stan.Param,
+  FireDAC.Stan.Error, FireDAC.DatS, FireDAC.Phys.Intf, FireDAC.DApt.Intf,
+  FireDAC.Stan.Async, FireDAC.DApt, FireDAC.Comp.DataSet, FireDAC.Comp.Client;
+
+type
+  TfrmClienteLOCALIZAR = class(TForm)
+    edtProduto: TEdit;
+    btnLocalizar: TButton;
+    DBGridCliente: TDBGrid;
+    btnSelecionar: TButton;
+    Label1: TLabel;
+    FDStoredProc1: TFDStoredProc;
+    DataSource1: TDataSource;
+  private
+    { Private declarations }
+  public
+    { Public declarations }
+  end;
+
+var
+  frmClienteLOCALIZAR: TfrmClienteLOCALIZAR;
+
+implementation
+
+uses
+  untDMPrincipal;
+
+{$R *.dfm}
+
+end.

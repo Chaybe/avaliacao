@@ -1,0 +1,12 @@
+object DMPrincipal: TDMPrincipal
+  OldCreateOrder = False
+  Height = 202
+  Width = 313
+  object FDConnection: TFDConnection
+    Params.Strings = (
+      'Server=DESKTOP-VV1P8BU\SQLEXPRESS')
+    LoginPrompt = False
+    Left = 48
+    Top = 48
+  end
+end
